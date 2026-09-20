@@ -1,7 +1,12 @@
 # Breakgeist Visualizer
 
-Audio-reactive "liquid metal" visuals — the engine behind the videos for
-**Breakgeist**, the electronic project of Matthew Berman (Edged Out Records).
+Audio-reactive "liquid metal" visuals — developed by Matthew Berman at
+**Koryuai**, the tech division of Liberty Rose Studios, and built for
+**Breakgeist** of Edged Out Records.
+
+**Breakgeist** — *breakthrough* meets the *zeitgeist*, built on *break beats*
+as the foundation of its musical identity — was the first AI-powered artist
+launched with the label. This is the engine behind its videos.
 
 Feed it any song. It analyzes the track's energy, brightness, and pulse, then
 renders a flowing field of turbulent color that breathes with the music. Two
