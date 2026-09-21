@@ -4,6 +4,11 @@ Audio-reactive "liquid metal" visuals — developed by Matthew Berman at
 **Koryuai**, the tech division of Liberty Rose Studios, and built for
 **Breakgeist** of Edged Out Records.
 
+Breakgeist Visualizer is a product of **Koryuai**, written by **Mattske**
+with agentic support for **Edged Out Records**, and given away for free here
+for independent artists looking to create quick visuals for their music to
+make it eye-catching on YouTube and social media platforms.
+
 **Breakgeist** — *breakthrough* meets the *zeitgeist*, built on *break beats*
 as the foundation of its musical identity — was the first AI-powered artist
 launched with the label. This is the engine behind its videos.
